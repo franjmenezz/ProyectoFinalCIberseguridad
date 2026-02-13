@@ -34,6 +34,8 @@ Todo el contenido corresponde a un entorno **controlado de laboratorio** y se pr
 
 **No debe utilizarse para actividades no autorizadas.**
 
+<br></br>
+
 <p align="center">
   <img width="1128" height="770" alt="image" src="https://github.com/user-attachments/assets/d227c665-1d3c-4c82-8469-64d16c1df7b4" />
 </p>
