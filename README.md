@@ -37,7 +37,7 @@ Todo el contenido corresponde a un entorno **controlado de laboratorio** y se pr
 <br></br>
 
 <p align="center">
-  <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/d227c665-1d3c-4c82-8469-64d16c1df7b4" />
+  <img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/d227c665-1d3c-4c82-8469-64d16c1df7b4" />
 </p>
 
 
