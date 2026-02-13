@@ -1,5 +1,9 @@
 ## Proyecto Final de Ciberseguridad – 4Geeks Academy
 
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c1c9164f-a3c4-4807-b0ab-91d2be80f9f8" />
+
+
 Este repositorio documenta un proyecto completo de **pentesting** y **respuesta a incidentes (DFIR)** realizado como pentester / analista de ciberseguridad para **4Geeks Academy**, sobre un servidor Debian crítico que presenta indicios de compromiso.
 
 El objetivo es reconstruir el ataque (DFIR), validar técnicamente los vectores (Red Team) y aplicar contención / erradicación / hardening (Blue Team) bajo marcos como **OWASP Top 10**, **NIST** e **ISO 27001**.
@@ -29,3 +33,7 @@ Laboratorio aislado en red interna (Host-Only / Internal Network) con las siguie
 Todo el contenido corresponde a un entorno **controlado de laboratorio** y se presenta con fines **educativos**, siguiendo buenas prácticas de auditoría y respuesta a incidentes.
 
 **No debe utilizarse para actividades no autorizadas.**
+
+
+<img width="1650" height="1275" alt="image" src="https://github.com/user-attachments/assets/5b451d80-e96c-4478-aa8c-b7786379b208" />
+
