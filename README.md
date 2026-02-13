@@ -1,8 +1,8 @@
 ## Proyecto Final de Ciberseguridad – 4Geeks Academy
 
-
-                                                    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c1c9164f-a3c4-4807-b0ab-91d2be80f9f8" />
-
+<p align="center">
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c1c9164f-a3c4-4807-b0ab-91d2be80f9f8" />
+</p>
 
 Este repositorio documenta un proyecto completo de **pentesting** y **respuesta a incidentes (DFIR)** realizado como pentester / analista de ciberseguridad para **4Geeks Academy**, sobre un servidor Debian crítico que presenta indicios de compromiso.
 
@@ -34,6 +34,8 @@ Todo el contenido corresponde a un entorno **controlado de laboratorio** y se pr
 
 **No debe utilizarse para actividades no autorizadas.**
 
+<p align="center">
+  <img width="1128" height="770" alt="image" src="https://github.com/user-attachments/assets/d227c665-1d3c-4c82-8469-64d16c1df7b4" />
+</p>
 
-<img width="401" height="401" alt="image" src="https://github.com/user-attachments/assets/06a6505a-072b-4252-94e2-07a7d0eb14c1" />
 
