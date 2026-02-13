@@ -1,0 +1,31 @@
+Name,"Keyword Preview",Location,"Modified Time","Change Time","Access Time","Created Time",Size,"Flags(Dir)","Flags(Meta)",Known,"MD5 Hash","SHA-256 Hash","MIME Type",Extension
+th_en_US_v2.dat,"th_en_us_v2.dat door|3
+(noun)|«backdoor«|access (generic term)","/img_debianFinalProject.E01/vol_vol2/usr/share/mythes/th_en_US_v2.dat","2023-01-25 15:26:33 CET","2024-07-31 19:38:20 CEST","2024-07-31 19:29:45 CEST","2024-07-31 19:38:18 CEST",18553257,Allocated,Allocated,unknown,,,text/plain,dat
+"deb.debian.org_debian_dists_bookworm_main_i18n_Translation-en","AES-256 encrypted
+ reverse «backdoor« via TOR (optional) with","/img_debianFinalProject.E01/vol_vol2/var/lib/apt/lists/deb.debian.org_debian_dists_bookworm_main_i18n_Translation-en","2024-08-31 10:53:47 CEST","2024-09-30 15:58:00 CEST","2024-10-08 22:08:57 CEST","2024-09-30 15:57:58 CEST",32686605,Allocated,Allocated,unknown,,,text/plain,
+en_US.dic,"backcross/DSG
+backdate/GDS
+«backdoor«
+backdrop/MS
+backed/U","/img_debianFinalProject.E01/vol_vol2/usr/share/hunspell/en_US.dic","2022-01-20 06:16:40 CET","2024-07-31 19:31:17 CEST","2024-07-31 19:29:45 CEST","2024-07-31 19:31:17 CEST",860381,Allocated,Allocated,unknown,,,text/plain,dic
+th_en_US_v2.idx,"100
+backdate|1243205
+«backdoor«|1243245
+backdown|1243449","/img_debianFinalProject.E01/vol_vol2/usr/share/mythes/th_en_US_v2.idx","2023-01-25 23:04:49 CET","2024-07-31 19:38:20 CEST","2024-07-31 19:29:45 CEST","2024-07-31 19:38:20 CEST",3044542,Allocated,Allocated,unknown,,,text/plain,idx
+en-common.rws,"BKSWTS
+	boxwood's
+Bacardi
+«backdoor«
+backed
+bagged
+baguette","/img_debianFinalProject.E01/vol_vol2/var/lib/aspell/en-common.rws","2024-07-31 19:43:32 CEST","2024-07-31 19:43:32 CEST","2024-07-31 19:29:45 CEST","2024-07-31 19:30:29 CEST",2423696,Allocated,Allocated,unknown,,,application/octet-stream,rws
+cmudict-en-us.dict,"B AE K D EY T IH NG
+«backdoor« B AE K D AO R
+backdoors","/img_debianFinalProject.E01/vol_vol2/usr/share/pocketsphinx/model/en-us/cmudict-en-us.dict","2022-09-28 22:56:35 CEST","2024-07-31 19:38:40 CEST","2024-07-31 19:29:45 CEST","2024-07-31 19:38:36 CEST",3272051,Allocated,Allocated,unknown,,,text/plain,dict
+CPAN.pm,"{
+                # «backdoor«: I could not find a way","/img_debianFinalProject.E01/vol_vol2/usr/share/perl/5.36.0/CPAN.pm","2023-11-25 21:59:54 CET","2024-07-31 19:28:42 CEST","2024-07-31 19:28:39 CEST","2024-07-31 19:28:40 CEST",147971,Allocated,Allocated,unknown,,,text/x-perl,pm
+perl5db.pl,"return if $skipCvGV;    # «Backdoor« to avoid problems if","/img_debianFinalProject.E01/vol_vol2/usr/share/perl/5.36.0/perl5db.pl","2023-11-25 21:59:54 CET","2024-07-31 19:28:42 CEST","2024-07-31 19:28:39 CEST","2024-07-31 19:28:41 CEST",317493,Allocated,Allocated,unknown,,,text/x-perl,pl
+amdgpu.ko,"loading type (3 = rlc «backdoor« autoload if supported","/img_debianFinalProject.E01/vol_vol2/usr/lib/modules/6.1.0-22-amd64/kernel/drivers/gpu/drm/amd/amdgpu/amdgpu.ko","2024-06-21 05:59:28 CEST","2024-07-31 18:15:24 CEST","2024-07-31 18:15:25 CEST","2024-07-31 18:15:14 CEST",19377075,Allocated,Allocated,unknown,,,application/x-object,ko
+dumpvar.pl,"return if $skipCvGV;		# «Backdoor« to avoid problems if","/img_debianFinalProject.E01/vol_vol2/usr/share/perl/5.36.0/dumpvar.pl","2023-11-25 21:59:54 CET","2024-07-31 19:28:42 CEST","2024-07-31 19:28:39 CEST","2024-07-31 19:28:41 CEST",15555,Allocated,Allocated,unknown,,,text/x-perl,pl
+Dumpvalue.pm,"$self->{skipCvGV};	# «Backdoor« to avoid problems if","/img_debianFinalProject.E01/vol_vol2/usr/share/perl/5.36.0/Dumpvalue.pm","2023-11-25 21:59:54 CET","2024-07-31 19:28:42 CEST","2024-07-31 19:28:39 CEST","2024-07-31 19:28:40 CEST",17668,Allocated,Allocated,unknown,,,text/x-perl,pm
+"deb.debian.org_debian_dists_bookworm_main_binary-amd64_Packages","Description: rootkit, «backdoor«, sniffer and exploit","/img_debianFinalProject.E01/vol_vol2/var/lib/apt/lists/deb.debian.org_debian_dists_bookworm_main_binary-amd64_Packages","2024-08-31 10:53:44 CEST","2024-09-30 15:58:00 CEST","2024-10-08 22:08:57 CEST","2024-09-30 15:57:12 CEST",49997355,Allocated,Allocated,unknown,,,text/plain,

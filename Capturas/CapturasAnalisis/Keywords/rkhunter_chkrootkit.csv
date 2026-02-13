@@ -1,0 +1,43 @@
+Name,"Keyword Preview",Location,"Modified Time","Change Time","Access Time","Created Time",Size,"Flags(Dir)","Flags(Meta)",Known,"MD5 Hash","SHA-256 Hash","MIME Type",Extension
+"deb.debian.org_debian_dists_bookworm_main_i18n_Translation-en","rifiuti,
+   rifiuti2, «rkhunter«, rsakeyfind, safecopy","/img_debianFinalProject.E01/vol_vol2/var/lib/apt/lists/deb.debian.org_debian_dists_bookworm_main_i18n_Translation-en","2024-08-31 10:53:47 CEST","2024-09-30 15:58:00 CEST","2024-10-08 22:08:57 CEST","2024-09-30 15:57:58 CEST",32686605,Allocated,Allocated,unknown,,,text/plain,
+"deb.debian.org_debian_dists_bookworm_main_source_Sources","misc
+
+Package: «rkhunter«
+Binary: «rkhunter«
+Version: 1.4","/img_debianFinalProject.E01/vol_vol2/var/lib/apt/lists/deb.debian.org_debian_dists_bookworm_main_source_Sources","2024-08-31 10:53:03 CEST","2024-09-30 15:58:00 CEST","2024-09-30 15:56:05 CEST","2024-09-30 15:56:05 CEST",50844288,Allocated,Allocated,unknown,,,text/plain,
+srcpkgcache.bin,"rhash
+rifiuti
+rifiuti2
+«rkhunter«
+rsakeyfind
+safecopy
+samdump2","/img_debianFinalProject.E01/vol_vol2/var/cache/apt/srcpkgcache.bin","2024-09-30 21:28:12 CEST","2024-09-30 21:28:12 CEST","2024-10-08 22:09:02 CEST","2024-09-30 21:28:12 CEST",39382038,Allocated,Allocated,unknown,,,application/octet-stream,bin
+"deb.debian.org_debian_dists_bookworm_main_binary-amd64_Packages","rhash, rifiuti, rifiuti2, «rkhunter«, rsakeyfind, safecopy","/img_debianFinalProject.E01/vol_vol2/var/lib/apt/lists/deb.debian.org_debian_dists_bookworm_main_binary-amd64_Packages","2024-08-31 10:53:44 CEST","2024-09-30 15:58:00 CEST","2024-10-08 22:08:57 CEST","2024-09-30 15:57:12 CEST",49997355,Allocated,Allocated,unknown,,,text/plain,
+pkgcache.bin,"rhash
+rifiuti
+rifiuti2
+«rkhunter«
+rsakeyfind
+safecopy
+samdump2","/img_debianFinalProject.E01/vol_vol2/var/cache/apt/pkgcache.bin","2024-10-08 22:15:01 CEST","2024-10-08 22:15:01 CEST","2024-10-08 22:15:01 CEST","2024-10-08 22:15:01 CEST",39402584,Allocated,Allocated,unknown,,,application/octet-stream,bin
+"deb.debian.org_debian_dists_bookworm_main_i18n_Translation-en","properly.
+
+Package: «chkrootkit«
+Description-md5: f0","/img_debianFinalProject.E01/vol_vol2/var/lib/apt/lists/deb.debian.org_debian_dists_bookworm_main_i18n_Translation-en","2024-08-31 10:53:47 CEST","2024-09-30 15:58:00 CEST","2024-10-08 22:08:57 CEST","2024-09-30 15:57:58 CEST",32686605,Allocated,Allocated,unknown,,,text/plain,
+"deb.debian.org_debian_dists_bookworm_main_source_Sources","Package: «chkrootkit«
+Binary: «chkrootkit«
+Version: 0","/img_debianFinalProject.E01/vol_vol2/var/lib/apt/lists/deb.debian.org_debian_dists_bookworm_main_source_Sources","2024-08-31 10:53:03 CEST","2024-09-30 15:58:00 CEST","2024-09-30 15:56:05 CEST","2024-09-30 15:56:05 CEST",50844288,Allocated,Allocated,unknown,,,text/plain,
+srcpkgcache.bin,"c6f57b408d11439d3e4
+«chkrootkit«
+	0.57-2+b4
+0.57-2
+c","/img_debianFinalProject.E01/vol_vol2/var/cache/apt/srcpkgcache.bin","2024-09-30 21:28:12 CEST","2024-09-30 21:28:12 CEST","2024-10-08 22:09:02 CEST","2024-09-30 21:28:12 CEST",39382038,Allocated,Allocated,unknown,,,application/octet-stream,bin
+"deb.debian.org_debian_dists_bookworm_main_binary-amd64_Packages","Package: «chkrootkit«
+Source: «chkrootkit« (0.57-2)
+Version:","/img_debianFinalProject.E01/vol_vol2/var/lib/apt/lists/deb.debian.org_debian_dists_bookworm_main_binary-amd64_Packages","2024-08-31 10:53:44 CEST","2024-09-30 15:58:00 CEST","2024-10-08 22:08:57 CEST","2024-09-30 15:57:12 CEST",49997355,Allocated,Allocated,unknown,,,text/plain,
+pkgcache.bin,"c6f57b408d11439d3e4
+«chkrootkit«
+	0.57-2+b4
+0.57-2
+c","/img_debianFinalProject.E01/vol_vol2/var/cache/apt/pkgcache.bin","2024-10-08 22:15:01 CEST","2024-10-08 22:15:01 CEST","2024-10-08 22:15:01 CEST","2024-10-08 22:15:01 CEST",39402584,Allocated,Allocated,unknown,,,application/octet-stream,bin
