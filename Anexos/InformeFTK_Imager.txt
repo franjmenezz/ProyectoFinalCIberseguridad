@@ -1,0 +1,43 @@
+Created By Exterro® FTK® Imager 8.2.0.33 
+
+Case Information: 
+Acquired using: ADI8.2.0.33
+Case Number: DebianVulnerada
+Evidence Number: 001
+Unique description: VM Debian comprometida - Proyecto Final Ciberseguridad
+Examiner: Francisco Jiménez
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\fjjpo\Desktop\ProyectoFinalCiberseguridad\ImagenDEBIAN\debianFinalProject.E01:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 63.513.728
+[Image]
+ Image Type: Raw (dd)
+ Source data size: 31012 MB
+ Sector count:    63513728
+[Computed Hashes]
+ MD5 checksum:    96e7972c41e2a1fcf8a8f408cbfe92e3
+ SHA1 checksum:   5a7c196152e66d6ddfad566c6dd8154fc35cca66
+
+Image Information:
+ Acquisition started:   Tue Feb  3 02:21:17 2026
+ Acquisition finished:  Tue Feb  3 02:22:40 2026
+ Segment list:
+  C:\Users\fjjpo\Desktop\ProyectoFinalCiberseguridad\ImagenDEBIAN\debianFinalProject.E01.E01
+  C:\Users\fjjpo\Desktop\ProyectoFinalCiberseguridad\ImagenDEBIAN\debianFinalProject.E01.E02
+  C:\Users\fjjpo\Desktop\ProyectoFinalCiberseguridad\ImagenDEBIAN\debianFinalProject.E01.E03
+ COMPUTED HASH :  96e7972c41e2a1fcf8a8f408cbfe92e3
+ COMPUTED HASH :  5a7c196152e66d6ddfad566c6dd8154fc35cca66
+
+Image Verification Results:
+ Verification started:  Tue Feb  3 02:22:40 2026
+ Verification finished: Tue Feb  3 02:23:55 2026
+ MD5 checksum:    96e7972c41e2a1fcf8a8f408cbfe92e3 : verified
+ SHA1 checksum:   5a7c196152e66d6ddfad566c6dd8154fc35cca66 : verified
